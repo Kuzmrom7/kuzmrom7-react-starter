@@ -1,4 +1,4 @@
-## React started project
+## React starter project
 
 with
 
